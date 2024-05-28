@@ -8,6 +8,7 @@ import {
 
 onMounted(() => {
   // NOTE: mount後でないと下記は発火できない
+  // 参考: https://github.com/mdbootstrap/TW-Elements/issues/1935
   initTWE({ Ripple });
 })
 </script>
