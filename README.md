@@ -1,4 +1,4 @@
-# Vue 3 + TypeScript + Vite + Tailwind + Ripple
+# Vue 3 + TypeScript + Vite + Tailwind + TW Elements
 
 ## 目次
 - [使用ライブラリ](#使用ライブラリ)
